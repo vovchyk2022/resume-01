@@ -1,7 +1,32 @@
 body{
    }
-h1{font-size: 46px;}
-.circle{border-radius: 50%}
+h1{
+    text-align: center;
+    font-size: 46px;
+   }
+.circle{
+    border: left 220px;;
+    border-radius: 50%}
+h2{
+    text-decoration-line: underline;
+    }    
 h3{
-    font-size: 16px; font-style: normal;font-display: unset;
+    text-align: center;
+    font-size: 16px; 
+    font-weight: 100;
+    font-style: italic;
+    }
+ p{
+    text-transform: capitalize;
+    text-indent: 2em
+
+    }
+.initial{
+    text-align: initial;
+    font-size: initial; 
+    font-weight: 900;
+}
+.contacts{
+    font-size: 800px;
+    font-weight: 800;
 }
