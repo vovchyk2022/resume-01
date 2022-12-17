@@ -5,8 +5,11 @@ h1{
     font-size: 46px;
    }
 .circle{
-    border: left 220px;;
-    border-radius: 50%}
+    border: left 220px;
+    border-radius: 50%;}
+.wrappinng-img{
+    text-align: center;   
+}
 h2{
     text-decoration-line: underline;
     }    
